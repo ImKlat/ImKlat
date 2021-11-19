@@ -15,7 +15,6 @@ CEO on [RetroStudios](https://github.com/retrostudio).
 | <a href="https://retrostudios.org" target="_blank">**Retro Studios**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'> |
-| <a href="https://github.com/enhancedtwitch" target="_blank">`Organization`</a> <a href="https://twitter.com/enhancedtwitch" target="_blank">`Twitter`</a> <a href="https://enhancedtwitch.com" target="_blank">Website</a> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
