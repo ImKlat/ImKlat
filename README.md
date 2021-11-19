@@ -17,14 +17,6 @@ CEO on [RetroStudios](https://github.com/retrostudio).
 <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/86208275?s=200&v=4' width="100px" height='100px'> |
 | <a href="https://github.com/dotmsn" target="_blank">`Organization`</a> <a href="https://dotmsn.com" target="_blank">Website</a> | <a href="https://github.com/enhancedtwitch" target="_blank">`Organization`</a> <a href="https://twitter.com/enhancedtwitch" target="_blank">`Twitter`</a> <a href="https://enhancedtwitch.com" target="_blank">Website</a> | <a href="https://github.com/strawci" target="_blank">`Organization`</a> <a href="https://strawci.com" target="_blank">Website</a> | <a href="https://github.com/nfense" target="_blank">`Organization`</a> <a href="https://twitter.com/netfense" target="_blank">`Twitter`</a> <a href="https://nfense.com" target="_blank">Website</a> |
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I participate.</p>
-
-| <a href="https://github.com/2lstudios" target="_blank">**2LStudios**</a> | <a href="https://github.com/2LStudios-MC" target="_blank">**2LSMC**</a> | <a href="https://github.com/rubiuscorp" target="_blank">**RubiusCorp**</a> | <a href="https://github.com/playpulse" target="_blank">**ArkFlame**</a> |
-|:---: | :---: | :---: | :---:|
-| <img align='center' src='https://avatars0.githubusercontent.com/u/47465684?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/53847752?s=200&v=4' height='100px'> | <img align='center' src='https://avatars2.githubusercontent.com/u/60458264?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/47249069?s=200&v=4' height='100px'> |
-| <a href="http://github.com/2lstudios" target="_blank">`github.com/2lstudios`</a> | <a href="http://github.com/2lstudios-mc" target="_blank">`github.com/2lstudios-mc`</a> | <a href="https://github.com/rubiuscorp" target="_blank">`github.com/rubiuscorp`</a> | <a href="https://github.com/arkflame" target="_blank">`github.com/arkflame`</a> |
-
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
 
