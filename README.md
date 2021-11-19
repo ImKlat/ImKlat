@@ -12,10 +12,10 @@ CEO on [RetroStudios](https://github.com/retrostudio).
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://retrostudios.org" target="_blank">**Retro Studios**</a> | <a href="https://skilleddevelopment" target="_blank">**Skilled Development**</a> |
+| <a href="https://retrostudios.org" target="_blank">**Retro Studios**</a> |
 | :---: | :---: | :---: | :---: |
 <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
-| <a href="https://github.com/enhancedtwitch" target="_blank">`Organization`</a> <a href="https://twitter.com/enhancedtwitch" target="_blank">`Twitter`</a> <a href="https://enhancedtwitch.com" target="_blank">Website</a> | <a href="https://github.com/strawci" target="_blank">`Organization`</a> <a href="https://strawci.com" target="_blank">Website</a> |
+| <a href="https://github.com/enhancedtwitch" target="_blank">`Organization`</a> <a href="https://twitter.com/enhancedtwitch" target="_blank">`Twitter`</a> <a href="https://enhancedtwitch.com" target="_blank">Website</a> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
