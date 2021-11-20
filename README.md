@@ -14,7 +14,7 @@ CEO on [RetroStudios](https://github.com/retrostudio).
   
 | <a href="https://retrostudios.org" target="_blank">**Retro Studios**</a> |
 | :---: | :---: | :---: | :---: |
-<img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'> |
+<img align='center' width="100px" src='https://cdn.discordapp.com/attachments/905637841411928074/908103104585674772/ilustracion-icono-vector-logotipo-8-bits-marca-pixel-letra-r_7688-3961.jpg' height='100px'> |
 
 <h2 align="center">Skills</h2>
 <p align="center">A summary of my programming skills.</p>
