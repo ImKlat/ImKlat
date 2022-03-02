@@ -3,7 +3,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [RetroStudios](https://github.com/retrostudio).
+CEO on [Optimal Services](https://github.com/optimalservices).
 
 💻 Beginner, in love to learn.  
   
