@@ -12,7 +12,7 @@ CEO on [RetroStudios](https://github.com/retrostudio).
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://retrostudios.org" target="_blank">**Retro Studios**</a> |
+| <a href="https://optimal-services.org" target="_blank">**Optimal Services**</a> |
 :---: | :---: | :---: | :---: |
 
 <h2 align="center">Skills</h2>
@@ -25,6 +25,7 @@ CEO on [RetroStudios](https://github.com/retrostudio).
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
 </p>
 
 <h2 align="center">Pinned Repositories</h2>
