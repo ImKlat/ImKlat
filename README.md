@@ -3,7 +3,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>  
 
 # BIO
-CEO on [Glacial Studios](https://github.com/glacialstudios).
+CEO on [Glacial Studios](https://github.com/Glacial-Studios).
 
 💻 Beginner, in love to learn.  
   
