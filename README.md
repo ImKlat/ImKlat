@@ -12,7 +12,7 @@ CEO on [Glacial Studios](https://github.com/Glacial-Studios).
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at my most outstanding projects.</p>
   
-| <a href="https://optimal-services.org" target="_blank">**Optimal Services**</a> |
+| <a href="https://glacialstudios.org" target="_blank">**Glacial Studios**</a> |
 :---: | :---: | :---: | :---: |
 
 <h2 align="center">Skills</h2>
